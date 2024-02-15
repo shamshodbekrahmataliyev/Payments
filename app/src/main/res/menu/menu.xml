@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/homepage"/>
+    <item
+        android:title="book"
+        android:id="@+id/medical_book"
+        android:icon="@drawable/medical_book" />
+    <item
+        android:title="suitcases"
+        android:id="@+id/history"
+        android:icon="@drawable/suitcases" />
+    <item
+        android:title="gift"
+        android:id="@+id/gift"
+        android:icon="@drawable/gift"/>
+    <item
+        android:title="profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/letter_p"/>
+
+</menu>
